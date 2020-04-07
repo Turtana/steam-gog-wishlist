@@ -1,0 +1,1 @@
+This Python script goes through your Steam wishlist, checks which games are also available in GOG, and opens their GOG store pages.
